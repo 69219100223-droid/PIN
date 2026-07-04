@@ -1,0 +1,6 @@
+{
+  "name": "2.5D Action RPG Arena",
+  "description": "An action-packed 2.5D retro RPG arena game built with Three.js. Fight off enemies, dodge boss fireballs, and warp to safety!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
